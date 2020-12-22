@@ -5,10 +5,10 @@ English | [中文](https://github.com/huaweicodelabs/DynamicTagManager/blob/mast
 
 ## Table of Contents
 
- * [Introduction](#Introduction)
- * [Getting Started](#Getting-started)
+ * [Introduction](#introduction)
+ * [Getting Started](#getting-started)
  * [Supported Environments](#supported-environments)
- * [Result](#Result)
+ * [Result](#result)
  * [License](#license)
 
 
@@ -39,4 +39,4 @@ Android Studio 3.0 or later and JDK 1.7 or later
    <img src="result_1.png" width = 60% height = 60%>
 
 ## License
-The sample code has obtained the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+HMS DTM sample for android is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
