@@ -1,6 +1,6 @@
 # HMS Dynamic Tag Manager(DTM) Sample for Android
 
-中文 | [English](https://github.com/huaweicodelabs/DynamicTagManager/blob/master/README.md)
+中文 | [English](README.md)
 
 ## 目录
 
